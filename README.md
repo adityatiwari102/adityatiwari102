@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @adityatiwari102
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Data Science and Machine Learning
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Aditya Tiwari
+- 👀 I’m Data Scientist
+- 🌱 Keep learning..
 - 📫 How to reach me : via mail aditya.tiwari102@gmail.com
 
 <!---
